@@ -1,17 +1,11 @@
 body {
     background: white;
-}
-
-.countdown {
     position: absolute;
     top: 50%;
     left: 50%;
     transform: translateX(-50%) translateY(-50%);
     color: black;
-    font-size: 50px;
-    font-family: "Comic Sans MS", cursive, sans-serif;
-    letter-spacing: 8px;
-   
-
-
+    font-size: 20px;
+    letter-spacing: 10px;
 }
+
